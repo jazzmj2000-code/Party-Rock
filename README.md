@@ -5,9 +5,12 @@ In this project I'm using PartyRock to develop a 'Daily Task Scheduler Applicati
 
 Steps to be performed:
 
-Generating the daily task scheduler application
-Changes in existing widgets
-Adding new widgets
-Publishing your app
+Step 1:Generating the daily task scheduler application
+
+Step 2:Changes in existing widgets
+
+Step 3:Adding new widgets
+
+Step 4:Publishing your app
 
 <img width="1306" height="574" alt="image" src="https://github.com/user-attachments/assets/e1dd174b-266f-4b9b-9eb2-1990bd99d1dd" />
